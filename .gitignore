@@ -23,6 +23,10 @@ gguf/
 runs/
 wandb/
 
+# Personal practice runs + logs (not submitted)
+practice/
+logs/
+
 # Model / HF cache
 .cache/
 hf_cache/
